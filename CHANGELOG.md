@@ -1,4 +1,4 @@
-# v0.1.0 — First public release
+# v1.0.0 — First public release
 
 JEV News helps readers separate reported facts, attributed claims and political
 packaging, while keeping the original article links available for checking.
@@ -9,7 +9,7 @@ packaging, while keeping the original article links available for checking.
 - Review saved news in a local browser interface, with source and date filters.
 - Reuse completed analysis checkpoints and retain uncertain political reporting.
 
-Download `jev-news-v0.1.0.zip` and follow [Installation](INSTALL.md)
+Download `jev-news-v1.0.0.zip` and follow [Installation](INSTALL.md)
 or [中文安装说明](INSTALL.zh-CN.md). Python 3.12 on macOS or Linux is required;
 Windows is not supported yet. This release contains MIT-licensed Python source.
 Analysis requires your own API keys and can incur charges. Model output is not

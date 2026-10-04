@@ -1,7 +1,7 @@
 # 安装 JEV News
 
 从[发布页面](https://github.com/sheng0325/jev-news/releases/latest)下载
-`jev-news-v0.1.0.zip`，解压后，在终端进入 `jev-news-v0.1.0` 文件夹。
+`jev-news-v1.0.0.zip`，解压后，在终端进入 `jev-news-v1.0.0` 文件夹。
 
 需要 macOS 或 Linux，以及 Python 3.12。程序使用 POSIX 文件锁，暂不支持
 Windows。下载包包含采用 MIT 许可的 Python 源代码。

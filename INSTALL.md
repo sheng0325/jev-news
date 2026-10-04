@@ -1,8 +1,8 @@
 # Install JEV News
 
-Download `jev-news-v0.1.0.zip` from the
+Download `jev-news-v1.0.0.zip` from the
 [release page](https://github.com/sheng0325/jev-news/releases/latest), then
-extract it and open a terminal in the `jev-news-v0.1.0` folder.
+extract it and open a terminal in the `jev-news-v1.0.0` folder.
 
 Requires Python 3.12 on macOS or Linux. Windows is not supported yet because
 the pipeline uses POSIX file locking. The download contains Python source
