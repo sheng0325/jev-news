@@ -22,3 +22,7 @@ Do not include API keys or other private information in issue reports.
 
 This is the public distribution and feedback repository. Development source and
 history are maintained separately in a private repository.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
